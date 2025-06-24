@@ -1,0 +1,14 @@
+name: CollisionBoxesDrawer
+main: ipad54\collisionboxesdrawer\CollisionBoxDrawer
+api: 5.29.0
+version: 1.0
+author: ipad54
+description: Helps debugging block/entity collision boxes by rendering their server-side versions to the client
+website: https://github.com/ipad54/CollisionBoxesDrawer
+permissions:
+  collisionboxdrawer.command.boxdrawerstick:
+    default: op
+    description: Allows the user to give themselves a debug stick to render block/entity collision boxes
+  collisionboxdrawer.command.mycollisionboxes:
+    default: op
+    description: Allows the user to render their collision boxes
