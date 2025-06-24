@@ -1,6 +1,6 @@
 name: CollisionBoxesDrawer
 main: ipad54\collisionboxesdrawer\CollisionBoxDrawer
-api: 5.29.0
+api: 5.30.1
 version: 1.0
 author: ipad54
 description: Helps debugging block/entity collision boxes by rendering their server-side versions to the client
